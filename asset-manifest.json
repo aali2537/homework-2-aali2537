@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/%3Crepo%3E/static/css/main.a617e044.chunk.css",
-    "main.js": "/%3Crepo%3E/static/js/main.e4676a5f.chunk.js",
-    "main.js.map": "/%3Crepo%3E/static/js/main.e4676a5f.chunk.js.map",
-    "runtime-main.js": "/%3Crepo%3E/static/js/runtime-main.8b246bd7.js",
-    "runtime-main.js.map": "/%3Crepo%3E/static/js/runtime-main.8b246bd7.js.map",
-    "static/js/2.a3a4ba4d.chunk.js": "/%3Crepo%3E/static/js/2.a3a4ba4d.chunk.js",
-    "static/js/2.a3a4ba4d.chunk.js.map": "/%3Crepo%3E/static/js/2.a3a4ba4d.chunk.js.map",
-    "static/js/3.55e19629.chunk.js": "/%3Crepo%3E/static/js/3.55e19629.chunk.js",
-    "static/js/3.55e19629.chunk.js.map": "/%3Crepo%3E/static/js/3.55e19629.chunk.js.map",
-    "index.html": "/%3Crepo%3E/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/%3Crepo%3E/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.a3a4ba4d.chunk.js.LICENSE.txt": "/%3Crepo%3E/static/js/2.a3a4ba4d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/%3Crepo%3E/static/media/logo.6ce24c58.svg"
+    "main.css": "/homework-2-aali2537/static/css/main.a617e044.chunk.css",
+    "main.js": "/homework-2-aali2537/static/js/main.e4676a5f.chunk.js",
+    "main.js.map": "/homework-2-aali2537/static/js/main.e4676a5f.chunk.js.map",
+    "runtime-main.js": "/homework-2-aali2537/static/js/runtime-main.d396c85a.js",
+    "runtime-main.js.map": "/homework-2-aali2537/static/js/runtime-main.d396c85a.js.map",
+    "static/js/2.a3a4ba4d.chunk.js": "/homework-2-aali2537/static/js/2.a3a4ba4d.chunk.js",
+    "static/js/2.a3a4ba4d.chunk.js.map": "/homework-2-aali2537/static/js/2.a3a4ba4d.chunk.js.map",
+    "static/js/3.55e19629.chunk.js": "/homework-2-aali2537/static/js/3.55e19629.chunk.js",
+    "static/js/3.55e19629.chunk.js.map": "/homework-2-aali2537/static/js/3.55e19629.chunk.js.map",
+    "index.html": "/homework-2-aali2537/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/homework-2-aali2537/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.a3a4ba4d.chunk.js.LICENSE.txt": "/homework-2-aali2537/static/js/2.a3a4ba4d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/homework-2-aali2537/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8b246bd7.js",
+    "static/js/runtime-main.d396c85a.js",
     "static/js/2.a3a4ba4d.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.e4676a5f.chunk.js"
