@@ -43,7 +43,7 @@ Deploy the application using one of the methods covered in class: Github Pages, 
 Edit this file (README.md) and complete the following:
 
 - URL to live application:
-- How did you deploy it?
-- What code editor are you using?
+- How did you deploy it? GH Pages/Actions
+- What code editor are you using? VisuL Studio Code
 
 That is all!
